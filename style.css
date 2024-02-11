@@ -180,6 +180,7 @@ nav{
     width: 100%;
     z-index: 6;
     background: #ffffff;
+z-index:100;
 }
 .top__nav{
     display: flex;
