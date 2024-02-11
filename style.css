@@ -208,6 +208,7 @@ nav{
     top: 0;
     left: 0;
     background: var(--color-primary);
+    z-index:100;
 }
 
 .nav__container{
